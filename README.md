@@ -1,4 +1,4 @@
 # college-demo
-this is my first repository
+This is my first Git Repository
 <br>
 Authour-D. Saijyothi
